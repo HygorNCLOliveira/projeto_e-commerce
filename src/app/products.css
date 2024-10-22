@@ -1,0 +1,28 @@
+.cardProduct{
+    border: 1px solid #c0c0c0;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 700px;
+    padding: 10px 30px;
+    margin: 10px;
+    background-color: #d3d3d3;
+}
+.cardProduct img{
+    width: 150px;
+    margin-right: 20px;
+    border-radius: 20px;
+    box-shadow: 0 5px 8px #8f8f8f;
+}
+a{
+    text-decoration: none;
+    color: #353434;
+    font-size: 1.5rem;
+}
+h4{
+    color: #4b4a4a;
+}
+p{
+    color:#4b4a4a
+}
